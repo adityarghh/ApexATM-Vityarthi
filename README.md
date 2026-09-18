@@ -66,13 +66,13 @@ javac -version
 
 ```bash
 git clone https://github.com/adityarghh/ApexATM-Project.git
-cd ApexATM-Project
+cd ApexATM-Vityarthi
 ```
 
 ### 2. Project Structure
 
 ```text
-ApexATM-Project/
+ApexATM-Vityarthi/
 ├── src/
 │   └── atm/
 │       ├── Main.java
